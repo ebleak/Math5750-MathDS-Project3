@@ -18,6 +18,7 @@ https://colab.research.google.com/github/ebleak/Math5750-MathDS-Project3/blob/ma
 
 *Note.* The URL in your README.md file will need to be modified so that it points to your ipynb. It should be:  
 https://colab.research.google.com/github/**mygithub**/**myreponame**/blob/main/project3.ipynb
+https://colab.research.google.com/github/ebleak/Math5750-MathDS-Project3/blob/main/project3.ipynb
 
 
 ### Save a copy in GitHub.
